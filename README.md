@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi, I'm Joao Vitor 👋</h1>
-  <h3>Desenvolvedor de Software | Python | HTML/CSS | Java 
+  <h3>Desenvolvedor de Software | Python | HTML/CSS | Java | JavaScript
 </div>
 
 <br/>
